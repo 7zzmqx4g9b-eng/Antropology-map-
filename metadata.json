@@ -1,0 +1,7 @@
+{
+  "name": "Global Heritage Explorer",
+  "description": "An interactive cultural anthropology map that allows users to explore the languages, traditional outfits, and heritage of nations around the world with AI-powered audio narrations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
